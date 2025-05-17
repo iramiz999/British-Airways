@@ -12,6 +12,9 @@ The analysis answers key questions such as:
 - Are there noticeable trends in customer satisfaction over time?
 - How does cabin class or route affect ratings?
 
+![Dashboard Preview](dash.png)
+
+
 The Tableau dashboard provides interactive filters to explore reviews by:
 - Cabin Class
 - Rating Category
